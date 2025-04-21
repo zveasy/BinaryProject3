@@ -1,0 +1,36 @@
+# C build artifacts
+*.o
+*.out
+
+*.obj
+*.dll
+*.so
+*.a
+*.lib
+
+# Compiled binaries
+
+
+# Python virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# VSCode or IDE stuff
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
